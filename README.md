@@ -22,6 +22,10 @@ Continue building your app on:
 
 **[https://v0.dev/chat/projects/29WvTXsy9GF](https://v0.dev/chat/projects/29WvTXsy9GF)**
 
+## Demo
+
+![Demo](demo/demo.gif)
+
 ## How It Works
 
 
